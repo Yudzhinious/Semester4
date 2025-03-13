@@ -108,4 +108,4 @@
 ### **UML-диаграмма классов:**
 ![classes.png](images/classes.png)
 ### **UML-диаграмма состояний:**
-![classes.png](images/states.png)
+![classes.png](images/conditions.png)
